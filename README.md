@@ -40,7 +40,7 @@ A Vue-based smart agriculture web platform for real-time environmental monitorin
 ---
 
 ## 📁 Project Structure
-
+```
 src/
 ├── api/ # Central API functions
 │ └── index.js
@@ -65,7 +65,7 @@ src/
 │ └── request.js # Axios wrapper
 ├── App.vue # Root component
 └── main.js # Entry point
-
+```
 ---
 
 ## 🧪 Technologies
